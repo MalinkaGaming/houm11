@@ -4,8 +4,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("задача № 1");
         printIsLeapYear(2021);
-        printRecommendedAppVersion( clientOs = 0,   deviceYear = 2020);
-        printDeliveryDays( deliveryDistance = 90);
+        printRecommendedAppVersion(0,2020);
+        printDeliveryDays(  90);
 
     }
 
